@@ -10,7 +10,7 @@
  - Azeite;
  - Sal, pimenta do reino e cheiro verde a gosto.
 
-Modo de Preparo
+### Modo de Preparo
 1.  Refogue a cebola no azeite até dourar;
 1.  Adicione o frango e o tempero e deixe cozinhar, mexendo de vez em quando para não grudar no fundo;
 1.  Quando o frango começar a dourar, adicione o champignon, o molho de tomate, a mostarda e o ketchup e misture bem;
